@@ -41,6 +41,10 @@ A Python tool to read and replace words in PDF files using a customizable dictio
   - [Setup](#setup)
     - [Clone the repository](#clone-the-repository)
   - [Installation:](#installation)
+    - [Python and Pip](#python-and-pip)
+      - [Linux](#linux)
+      - [MacOS](#macos)
+      - [Windows](#windows)
   - [Run Programing Language Code:](#run-programing-language-code)
     - [Dependencies](#dependencies)
     - [Dataset - Optional](#dataset---optional)
@@ -72,24 +76,38 @@ cd PDFReplacePy
 ```
 
 ## Installation:
-* Programing Language:
+### Python and Pip
 
-	* Manually:
-		```bash
-		# Programing Language:
-		sudo apt install program-language -y
-		```
+In order to run the scripts, you must have python3 and pip installed in your machine. If you don't have it installed, you can use the following commands to install it:
 
-  * Using Makefile:
-    ```bash
-    make install
-    ```
+#### Linux
 
-  * Using ShellScript:
-    ```bash
-    chmod +x install.sh
-    sudo ./install.sh
-    ```  
+In order to install python3 and pip in Linux, you can use the following commands:
+
+```
+sudo apt install python3 -y
+sudo apt install python3-pip -y
+```
+
+#### MacOS
+
+In order to install python3 and pip in MacOS, you can use the following commands:
+
+```
+brew install python3
+```
+
+#### Windows
+
+In order to install python3 and pip in Windows, you can use the following commands in case you have `choco` installed:
+
+```
+choco install python3
+```
+
+Or just download the installer from the [official website](https://www.python.org/downloads/).
+
+Great, you now have python3 and pip installed. Now, we need to install the project requirements/dependencies.
 
 ## Run Programing Language Code:
 ```bash
