@@ -8,7 +8,7 @@
   
 ---
 
-Project-Description.
+A Python tool to read and replace words in PDF files using a customizable dictionary.
   
 ---
 
@@ -133,7 +133,7 @@ If you use the PDFReplacePy in your research, please cite it using the following
 
 ```
 @misc{softwarePDFReplacePy:2024,
-  title = {PDFReplacePy: Project-Description},
+  title = {PDFReplacePy: A Python tool to read and replace words in PDF files using a customizable dictionary.},
   author = {Breno Farias da Silva},
   year = {2024},
   howpublished = {https://github.com/BrenoFariasdaSilva/PDFReplacePy},
