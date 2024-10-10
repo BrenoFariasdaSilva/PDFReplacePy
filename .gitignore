@@ -35,6 +35,17 @@ desktop.ini
 *.pptx
 *.odt
 
+# Ignore any photo file format
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.heif
+*.heic
+
 # Environments
 .env
 .venv
