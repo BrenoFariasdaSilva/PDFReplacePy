@@ -47,6 +47,9 @@ desktop.ini
 *.tif
 *.heif
 *.heic
+*.webp
+*.raw
+*.svg
 
 # Environments
 .env
