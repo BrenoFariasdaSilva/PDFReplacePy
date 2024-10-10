@@ -52,7 +52,6 @@ A Python tool to read and replace words in PDF files using a customizable dictio
   - [License](#license)
     - [Apache License 2.0](#apache-license-20)
 
-
 ## Introduction
 
 Detailed project description.
