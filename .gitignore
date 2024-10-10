@@ -21,6 +21,8 @@ desktop.ini
 */data/
 */dataset/
 */results/
+*/Inputs/
+*/Outputs/
 
 # Ignore the Data Files
 *.csv
