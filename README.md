@@ -129,14 +129,14 @@ Discuss the results obtained in the project.
 
 ## How to Cite?
 
-If you use the Repository-Name in your research, please cite it using the following BibTeX entry:
+If you use the PDFReplacePy in your research, please cite it using the following BibTeX entry:
 
 ```
-@misc{softwareRepository-Name:2024,
-  title = {Repository-Name: Project-Description},
+@misc{softwarePDFReplacePy:2024,
+  title = {PDFReplacePy: Project-Description},
   author = {Breno Farias da Silva},
   year = {2024},
-  howpublished = {https://github.com/BrenoFariasdaSilva/Repository-Name},
+  howpublished = {https://github.com/BrenoFariasdaSilva/PDFReplacePy},
   note = {Accessed on September 11, 2024}
 }
 ```
