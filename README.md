@@ -137,7 +137,7 @@ If you use the PDFReplacePy in your research, please cite it using the following
   author = {Breno Farias da Silva},
   year = {2024},
   howpublished = {https://github.com/BrenoFariasdaSilva/PDFReplacePy},
-  note = {Accessed on September 11, 2024}
+  note = {Accessed on October 10, 2024}
 }
 ```
 
